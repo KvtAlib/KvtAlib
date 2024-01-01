@@ -7,5 +7,3 @@
 📚 Aprendizaje y crecimiento continuo: Estoy comprometido a profundizar en las tecnologías y lenguajes de programación más relevantes. Mi objetivo es no solo aprender, sino también aplicar estos conocimientos en proyectos reales.
 
 🌟 Trabajo y dedicación: Cada proyecto y cada reto es una oportunidad para demostrar mi compromiso y habilidad. Estoy listo para enfrentar desafíos y superarlos con creatividad y eficiencia.
-
-🔍 En busca de oportunidades: Siempre estoy buscando colaborar en proyectos interesantes y aprender de otros desarrolladores. Si tienes un proyecto en el que crees que puedo contribuir, ¡no dudes en contactarme!
