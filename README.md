@@ -1,4 +1,4 @@
-👋 Hola, soy Esteban Álvarez!
+👋 Hola, soy Esteban Álvarez! Actualmente cursando ingenieria en informatica.
 
 🚀 Iniciando en el mundo de la programación: Estoy dando mis primeros pasos en este emocionante campo. Totalmente motivado y entusiasmado, cada línea de código que escribo me acerca más a convertirme en un profesional de la programación.
 
